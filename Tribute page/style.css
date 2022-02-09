@@ -1,0 +1,39 @@
+body{
+	background-color: rgb(248, 133, 214);
+	margin: 0 20%
+}
+ #title{
+	 text-align: center;
+	 font-family: 'Lobster', cursive;
+     font-family: 'Quintessential', cursive;
+	 font-size:10vh;
+}
+#subtitle{
+	text-align: center;
+}
+
+img{
+	 display:block;
+	 width: 100%;
+	 text-align: center;
+}
+ .box{
+	 width: 20px;
+ }
+
+div#tribute-info{
+	background-color: rgb(169, 245, 159);
+	box-shadow: 20px 20px 15px grey;
+	shape-margin: 0%;
+	padding:5px 10px;
+	margin-top: 20px;
+    margin-block-end: 50px;
+	text-align: justify;
+
+}
+h1.title{
+	color: rgb(12, 12, 12);
+	text-align: center;
+	text-shadow: 5px 5px 10px black;
+}
+
